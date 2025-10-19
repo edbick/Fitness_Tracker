@@ -1,0 +1,1 @@
+A Java-built fitness tracker that logs workouts, calculates averages and trends and rewards improvement with medals. Friendly leaderboards let you compare your data between other users. Data stored on local database.
